@@ -3,7 +3,7 @@
 <div align="center">
 <p align="center">Join Me In Socials ✅</p>
 
-<a href="https://www.linkedin.com/in/itsmhmd/">
+<a href="https://www.linkedin.com/in/iamhaghighi/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 
-<a href="https://t.me/itsmhmd/">
+<a href="https://t.me/iamhaghighi/">
     <img src="https://img.shields.io/badge/Telegram-0088cc?&style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
 
